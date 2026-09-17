@@ -1,3 +1,4 @@
+ //parameter of parallelogram and rectangle
  import java.util.Scanner;
    public class RectangleParameter {
     public static void main(String[] args){
