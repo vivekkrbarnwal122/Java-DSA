@@ -1,4 +1,4 @@
-
+// Program to count how many times a given digit occurs in a number
 import java.util.Scanner;
 
 public class countNums {

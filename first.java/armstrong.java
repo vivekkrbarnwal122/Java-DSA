@@ -4,7 +4,6 @@ public class armstrong {
     public static void main(String[] args){
         System.out.print("enter num:");
         int rem,result=0 ,Q, count=0;
-        System.out.print("enter num:");
         Scanner in=new Scanner(System.in);
             int num=in.nextInt();
             int num1=num;
